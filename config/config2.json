@@ -1,0 +1,50 @@
+{
+    "clients": [
+        {
+            "id": 0,
+            "host": "localhost",
+            "port": 40000
+
+        },
+        {
+            "id": 1,
+            "host": "localhost",
+            "port": 40001
+
+        },
+        {
+            "id": 2,
+            "host": "localhost",
+            "port": 40002
+
+        }
+    ],
+    "f": 2,
+    "replicas": [
+        {
+            "id": 0,
+            "host": "localhost",
+            "port": 30000
+        },
+        {
+            "id": 1,
+            "host": "localhost",
+            "port": 30001
+        },
+        {
+            "id": 2,
+            "host": "localhost",
+            "port": 30002
+        },
+        {
+            "id": 3,
+            "host": "localhost",
+            "port": 30003
+        },
+        {
+            "id": 4,
+            "host": "localhost",
+            "port": 30004
+        }
+    ]
+}
